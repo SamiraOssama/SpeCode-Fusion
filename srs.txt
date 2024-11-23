@@ -1,0 +1,13 @@
+2. Requirements
+
+The system shall calculate calories burned during exercises.
+The system shall display weekly progress in a report.
+The System shall get the user's favorite exercise.
+The system shall track daily steps 
+
+3. Non-Requirements
+The system should be fast.
+Colors are customizable.
+The app interface looks modern and trendy.
+It’s designed with a modular structure for easy updates.
+
